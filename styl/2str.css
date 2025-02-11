@@ -1,0 +1,82 @@
+.img2{
+ height: 1926px;
+}
+
+.k{
+    width: 380px;
+    height: 245px;
+    border-radius: 10px;
+}
+
+.img2-text{
+    color: #2E363E;
+    font-size: 48px;
+    text-align: center;
+    
+}
+
+.tovari{
+    
+    display: grid;
+    grid-template-columns: 380px 380px 380px;
+    column-gap: 16px;
+    row-gap: 40px;
+    justify-content: center;
+}
+
+
+
+
+.catalog-text{
+    grid-template-rows: 47px 48px 1fr 68px;
+    display: grid;
+    padding-left: 50px;
+}
+
+.nazvanie-grid{
+    display: grid;
+   
+    
+}
+.catalog-nazvanie{
+    color: #2E363E;
+    font-size: 24px;
+    font-weight: bold;
+    
+}
+
+
+.opisanie-grid{
+    display: grid;
+}
+.catalog-opisanie{
+    color: #2E363E;
+    font-size: 16px;
+    inline-size: 240px;
+}
+
+
+.cena-grid{
+ display: grid;
+}
+.catalog-cena{
+    color: #2E363E;
+    font-size: 24px;
+}
+
+
+
+.catalog-buttom{
+    background-color: #FED84C;
+    border-radius: 5px;
+    border-width: 0;
+    width: 163px;
+    height: 68px;
+    align-items: center;
+}
+.catalog-button-text{
+    color: #2E363E;
+    font-size: 25px;
+    margin-top: 0;
+    margin-bottom: 0;
+}

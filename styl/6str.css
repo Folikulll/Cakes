@@ -1,0 +1,31 @@
+
+.img6{
+    width: 1920px;
+    height: 1510px;
+}
+.img6-text{
+    text-align: center;
+}
+.img6-text1{
+    font-size: 48px;
+    font-weight: 700px;
+    color: #2E363E;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.img6-text2{
+    font-size: 24px;
+    color: #2E363E;
+}
+
+.img6-foto{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    row-gap: 9px;
+    column-gap: 9px;
+}
+.img6-foto-vse{
+    width: 634px;
+    height: 444px;
+}

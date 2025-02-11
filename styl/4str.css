@@ -1,0 +1,135 @@
+.img4{
+    height: 830px;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.img4-text{
+    width: 580px;
+    height: 637px;
+    margin-top: 100px;
+    display: grid;
+    margin-left: 300px;
+   
+    
+}
+.img4-zag1{
+    background-color: #F2F6FA;
+    width: 226px;
+    height: 37px;
+    border-radius: 5px;
+    align-content: center;
+    
+    
+}
+.img4-zag1-text{
+    color: #2E363E;
+    font-size: 11px;
+    text-align: center;
+}
+
+
+.img4-zag2-text{
+    font-size: 48px;
+    inline-size: 580px;
+    color:  #2E363E;
+
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+
+.img4-zag3{
+    height: 222px;
+    width: 438px;
+}
+.img4-zag3-text{
+    padding-left: 0;    
+    inline-size: 438px;
+}
+.img4-zag3-text li::marker{
+    color: #5D6AFB;
+    font-size: 18px;
+    margin-right: 0;
+}
+.img4-zag3-text-spisok{
+    margin-left: 15px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-size: 18px;
+    inline-size: 332px;
+}
+
+.img4-zag4{
+    grid-template-columns: 277px 1fr;
+    width: 600px;
+    height: 138px;
+    align-content: end;
+    
+}
+.img4-zag4-button{
+    background-color: #FED84C;
+    border-radius: 5px;
+    border-width: 0;
+    width: 299px;
+    height: 88px;
+    display: grid;
+    align-items: center;
+    
+    
+
+}
+.img4-zag4-button-text{
+    color: #2E363E;
+    font-size: 18px;
+}
+
+
+.img4-foto{
+    
+    
+    display: grid;
+}
+.full-baba{
+    position: relative;
+    top: 238px;
+    left: 100px;
+    background-color: #FED84C;
+    border-radius: 100%;
+    width: 580px;
+    height: 580px;
+}
+.baba{
+    bottom: 600px;
+    left: 60px;
+    position: relative;
+    width: 487px;
+    height: 816px;
+}
+.berri-baba{
+    width: 159px;
+    height: 163px;
+    position: relative;
+    bottom: 200px;
+}
+.leaf-baba1{
+    left: 350px;
+    width: 190px;
+    height: 198px;
+    position: relative;
+    rotate:-30deg;
+}
+.leaf-baba2{
+    left: 175px;
+    width: 190px;
+    height: 198px;
+    position: relative;
+    rotate:-20deg;
+   
+    
+}
+.leaf-baba3{
+    width: 190px;
+    height: 198px;
+    position: relative;
+    rotate:-10deg;
+}

@@ -1,0 +1,76 @@
+.img7{
+    background-color: #081130;
+    height: 912px;
+    width: 1920px;
+}
+.img7-okno{
+    background-color: white;
+    width: 1180px;
+    height: 394px;
+    border-radius: 20px;
+    margin-left: 370px;
+}
+.img7-okno-text{
+    text-align: center;
+    padding-top: 30px;
+    
+}
+.img7-okno-text1{
+    margin-bottom: 0;
+    color: #2E363E;
+    font-size: 36px;
+    font-weight: bold;
+}
+.img7-okno-text2{
+    margin-top: 10px;
+    color: #2E363E;
+    font-size: 21px;
+    margin-bottom: 40px;
+}
+
+.img7-okno-vvod{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 20px;
+}
+.img7-okno-vvod-pole{
+    justify-self: end;
+    width: 380px;
+    height: 85px;
+    border-radius: 10px;
+    border-width: 0;
+    background-color: #F2F6FA;
+    font-family: Montserrat,Arial;
+    font-size: 15px;
+    padding-left: 38px;
+}
+.img7-okno-vvod-knopka{
+    width: 380px;
+    height: 85px;
+    border-radius: 10px;
+    border-width: 0;
+    background-color: #FED84C;
+    font-size: 18px;
+    
+}
+.img7-okno-vvod-knopka-text{
+    color: #2E363E;
+}
+
+.img7-okno-falg{
+    display: grid;
+    grid-template-columns: 325px 1fr;
+}
+.img7-okno-flag1{
+    justify-self: end;
+    margin-top: 10px;
+    vertical-align: middle;
+    width: 12px;
+    height: 12px;
+    accent-color:#4A94FF;
+}
+.img7-okno-flag-text{
+    vertical-align: middle;
+    font-size: 11px;
+    color: #7E868E;
+}

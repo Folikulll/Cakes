@@ -1,0 +1,81 @@
+.header{
+    display: grid;
+    height: 120px;
+    grid-template-columns: 1fr 250px 650px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(255, 255, 255, 0.15);
+    
+}
+.header-left{
+    display: grid;
+    align-items: center;  
+    
+    width: 179px;
+    margin-left: 370px;
+    margin-right: 370pxpx;
+}
+.name{
+    font-size: 21px;
+}
+
+
+
+
+.header-center{
+    display: grid;
+    align-items: center;
+    line-height: 0.4;
+    font-size: 12px;
+    grid-template-columns: 30px 150px;
+    width: 160px;
+   
+
+}
+
+.znak-karta{
+    width: 17px;
+    margin-bottom: 22px;
+}
+.adres{
+    
+   
+}
+
+
+
+.header-right{
+    display: grid;
+    align-items: center;
+   
+    grid-template-columns: 50px 1fr;
+    margin-right: 10px;
+    width: 400px;
+
+}
+.div-telepfon{
+    vertical-align: top;
+    height: 80px;
+    height: 60px;
+}
+.znak-telefon{
+ width: 25px;
+ margin-top: 10px;
+ 
+}
+.right-text{
+    inline-size:16px;
+    width: 220px;
+    line-height: 0.4;
+    
+
+}
+.nomer{
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 0;
+    
+}
+.raspisanie{
+
+}

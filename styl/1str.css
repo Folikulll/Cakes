@@ -1,0 +1,64 @@
+.home-str{
+    margin-top: 190px;
+    margin-left: 370px;
+}
+.zag1{
+    background-color: #F2F6FA;
+    width: 132px;
+    height: 37px;
+    border-radius: 5px;
+    align-content: center;
+    
+    
+}
+.zag1-text{
+    color: #2E363E;
+    font-size: 11px;
+    text-align: center;
+}
+
+
+.zag2-text{
+    font-size: 48px;
+    inline-size: 600px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+
+
+.zag3-text{
+    font-size: 24px;
+    inline-size: 500px;
+}
+
+.zag4{
+    display: grid;
+    grid-template-columns: 277px 1fr;
+    width: 600px;
+    height: 88px;
+    
+}
+.zag4-button{
+    background-color: #FED84C;
+    border-radius: 5px;
+    border-width: 0;
+    width: 277px;
+    height: 88px;
+    display: grid;
+    align-items: center;
+
+}
+.zag4-button-text{
+    color: #2E363E;
+    font-size: 18px;
+}
+.zag4-text{
+    display: grid;
+    font-size: 15px;
+    inline-size: 150px;
+    vertical-align: middle;
+    margin-top: 30px;
+    margin-left: 20px;
+
+}

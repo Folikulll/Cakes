@@ -1,0 +1,22 @@
+body{
+    height: 9364px;
+    width: 1920px;
+    background: linear-gradient(to botton, #081130, #ffffff) ;
+   
+    
+}
+p{
+    color: white;
+    font-family: Montserrat,Arial;
+}
+.img1 {
+    
+    background-image: url(/pictures/fon2.jpg) ;
+    background-size: cover;
+    background-attachment: local, scroll;
+    background-size: 1920px 1294px;
+    background-repeat: no-repeat;
+    height: 1292px;
+    background-position: center;
+    position: relative;
+}
